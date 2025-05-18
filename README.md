@@ -4,12 +4,7 @@ The Payment microservice facilitates secure and efficient payment processing for
 
 ## Access
 
-The microservice is hosted on AWS ECS Docker at the following URL:
-http://ecom-user-lb-321143357.ap-south-1.elb.amazonaws.com:4043
-
-## Postman Collection
-
-https://api.postman.com/collections/20014395-9376e620-a680-4795-b1ac-9d387a3d02f7?access_key=PMAT-01HTQDTZC5DT1GPEQBQJNP4T4K
+The microservice can be hosted on AWS ECS Docker.
 
 ## Routes
 
